@@ -1,4 +1,12 @@
 # TargetSistemas
+Olá, me chamo Guilherme Salomão Agostini <br>
+E-mail: guime.sa9@gmail.com <br>
+Tel: (17)99609-5939 <br>
+
+Espero que gostem do meu trabalho! <br>
+
+OBS: A versão Python utilizada é a 3.10.6 e a biblioteca pandas é a versão 1.5.3
+
 ## 1)
 
 O primeiro exercicio foi respondido na Gupy: com valor SOMA de 91 no print. <br>
@@ -51,5 +59,17 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 ### Resposta 4)
 
 O código escrito em Python esta no arquivo Ex4.py <br>
+
+## 5)
+Escreva um programa que inverta os caracteres de um string. <br>
+
+IMPORTANTE: <br>
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; <br>
+b) Evite usar funções prontas, como, por exemplo, reverse;
+
+### Resposta 5)
+
+O código escrito em Python esta no arquivo Ex5.py <br>
+
 
 
