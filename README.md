@@ -23,7 +23,7 @@ Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, fa
 - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 <br>
 IMPORTANTE: <br>
-a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal; <br>
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 ### Resposta 3)
@@ -34,5 +34,22 @@ Vale lembrar que para rodar esse código faz-se necessário importar biblioteca 
 ~~~
     pip3 install pandas
 ~~~
+
+## 4)
+
+Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado: <br>
+
+SP – R$67.836,43 <br>
+RJ – R$36.678,66 <br>
+MG – R$29.229,88 <br>
+ES – R$27.165,48 <br>
+Outros – R$19.849,53 <br>
+
+Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+ 
+
+### Resposta 4)
+
+O código escrito em Python esta no arquivo Ex4.py <br>
 
 
